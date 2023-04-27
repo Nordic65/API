@@ -36,7 +36,7 @@ app.get("/", (req, res) => {
     
     <li> GET /Users:id - returnerar användare med angivet id (Kräver inloggning (TOKEN)) </li>
     
-    <li>POST /RegisterUser - skapa ett konto</li>
+    <li>POST /users - skapa ett konto</li>
     
     <li>POST /loggin - logga in på ditt konto </li>
     
